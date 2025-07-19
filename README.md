@@ -4,6 +4,12 @@ This is the Node.js + Express.js backend for 📍 **PinPointMap** — a full-sta
 
 ---
 
+### 🚀 Live Demo
+
+🔗 [Deployed Live on Vercel](https://pin-point-map-frontend.vercel.app/)
+
+---
+
 ### ⚙️ Hosted Backend
 
 The Express.js + MongoDB backend is deployed on Render:
