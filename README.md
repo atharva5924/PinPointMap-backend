@@ -134,7 +134,6 @@ CSE Undergrad @ IIIT Nagpur
 
 Let me know if you'd like:
 
-- Matching `README.md` for the frontend project
 - Shields/badges for GitHub (like `build`, `license`, `deploy`, etc.)
 - Postman collection export instructions or API test guide
 
